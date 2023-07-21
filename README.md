@@ -35,4 +35,4 @@ For Example Usage use Face Count in image.ipynb file which contains Python code
 Contributions to this repository are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 # Disclaimer:
-- This project is intended for educational and demonstrative purposes only. The accuracy of face detection may vary based on image quality and the classifier used. The developers are not responsible for any misuse or inappropriate use of the code or its results.
+This project is intended for educational and demonstrative purposes only. The accuracy of face detection may vary based on image quality and the classifier used. The developers are not responsible for any misuse or inappropriate use of the code or its results.
